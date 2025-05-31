@@ -1,0 +1,7 @@
+_Handle.draggable.enabled = true;
+_Handle.draggable.vertical = false;
+-Handle.draggable.constraints {
+  x: 177;
+  y: 140;
+width: 973
+_Handle.draggable.overdrag = false
